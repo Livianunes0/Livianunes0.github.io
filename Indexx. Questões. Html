@@ -1,0 +1,15 @@
+♡Livia Nunes dos Reis 3A♡
+
+Responda
+
+1-Qual a diferença entre as tags <h2> <h4>?
+
+R: A diferença está no nível hierárquico <h4> é menor do que <h2>, esse serve como subtítulo, já o <h4> serve para agregar mais informações e detalhes.
+
+2-O código <center><p> Texto </center><p> apresenta algum erro? Qual?
+
+R: O erro está na posição do <p> final, ele deveria estar já frente do
+ </center>, dessa forma: <p></center>. E outro erro está na falta da barra no <p> final. O certo seria assim: <center><p> Texto </p></center>
+
+3-Qual a função da tag <p>?
+Serve para abrir um parágrafo.
